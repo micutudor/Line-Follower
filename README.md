@@ -23,9 +23,10 @@ Design and develop a Line Follower Robot. This must include calibration with aut
 In order to achieve a fast time completing the circuit, the chassis was to designed to distribute the weight of the components and for stability on the corners we went for a large wheel base. Also, for avoiding malfunction, every component was tested individually.
 
 The built-in examples for testing components can be found here:
-https://codebender.cc/example/QTRSensors/QTRAExample#QTRAExample.ino - QTR sensor
-https://docs.arduino.cc/learn/electronics/stepper-motors/ - DC motors
-
+- https://codebender.cc/example/QTRSensors/QTRAExample#QTRAExample.ino - QTR sensor
+</br>
+- https://docs.arduino.cc/learn/electronics/stepper-motors/ - DC motors
+</br>
 After testing each component we can start implementing the circuit. Below is the circuit diagram:
 ![Circuit's diagram](Media/image.png)
 
