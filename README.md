@@ -24,9 +24,7 @@ In order to achieve a fast time completing the circuit, the chassis was to desig
 
 The built-in examples for testing components can be found here:
 - https://codebender.cc/example/QTRSensors/QTRAExample#QTRAExample.ino - QTR sensor
-</br>
 - https://docs.arduino.cc/learn/electronics/stepper-motors/ - DC motors
-</br>
 After testing each component we can start implementing the circuit. Below is the circuit diagram:
 ![Circuit's diagram](Media/image.png)
 
