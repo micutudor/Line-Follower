@@ -29,7 +29,7 @@ https://docs.arduino.cc/learn/electronics/stepper-motors/ - DC motors
 After testing each component we can start implementing the circuit. Below is the circuit diagram:
 ![Circuit's diagram](Media/image.png)
 
-Here is the finalised circuit implemented on the circuit: 
+Here is the finalised circuit applied on the chassis: 
 ![Final circuit](Media/1.jpg)
 
 ## Step 2 - Implementing the code:
